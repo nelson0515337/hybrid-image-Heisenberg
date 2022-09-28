@@ -61,7 +61,8 @@ The high frequency image is actually zero-mean with negative values so it is vis
 
 Adding the high and low frequencies together gives you the image at the top of this page. If you're having trouble seeing the multiple interpretations of the image, a useful way to visualize the effect is by progressively downsampling the hybrid image as is done below:
 
-![](./index_files/cat_hybrid_image_scales.jpg)
+![](./index_files/hybrid_heisenberg_image.jpg)
+![](./index_files/hybrid_heisenberg_scales.jpg)
 
 The starter code provides a function `visualize_hybrid_image.py` to save and display such visualizations.
 
